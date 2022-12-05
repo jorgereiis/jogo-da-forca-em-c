@@ -1,0 +1,11 @@
+casa
+mesa
+cadeira
+banquinho
+computador
+liquidificador
+amarelo
+perneta
+anao
+leite
+arvore
